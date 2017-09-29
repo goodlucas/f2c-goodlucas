@@ -1,0 +1,23 @@
+{
+  "name": "f2c-goodlucas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node teste.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodlucas/f2c-goodlucas.git"
+  },
+  "keywords": [
+    "farenheit",
+    "celsius"
+  ],
+  "author": "Lucas Lorenzetti <goodlucas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goodlucas/f2c-goodlucas/issues"
+  },
+  "homepage": "https://github.com/goodlucas/f2c-goodlucas#readme"
+}
