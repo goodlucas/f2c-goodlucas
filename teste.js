@@ -1,3 +1,4 @@
+'use strict'
 // teste.js
 
 const f2c = require('./index.js') 

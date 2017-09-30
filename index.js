@@ -1,4 +1,6 @@
 
+'use strict'
+//indes.js
 module.exports = function (tempF) {
 	if (typeof tempF  == 'string') { 
 		tempF = tempF.trim().replace(',','.')
