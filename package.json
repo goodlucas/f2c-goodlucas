@@ -1,6 +1,6 @@
 {
   "name": "f2c-goodlucas",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package returns a celsius value converted from a fahrenheit value",
   "main": "index.js",
   "scripts": {

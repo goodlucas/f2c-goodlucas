@@ -1,6 +1,6 @@
 
 'use strict'
-//indes.js
+//index.js
 module.exports = function (tempF) {
 	if (typeof tempF  == 'string') { 
 		tempF = tempF.trim().replace(',','.')
