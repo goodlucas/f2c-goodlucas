@@ -7,5 +7,5 @@ module.exports = function (tempF) {
 	tempC -= 32
 	tempC /= 1.8
 
-	return parseInt(tempC * 100)/100
+	return tempC.toFixed(2) 
 }
